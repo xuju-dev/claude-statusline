@@ -22,7 +22,7 @@ All values come from the live data Claude Code sends to the status line.
 Requires `jq` (`brew install jq` or `apt install jq`).
 
 ```bash
-git clone https://github.com/<you>/claude-statusline
+git clone https://github.com/xuju-dev/claude-statusline
 cd claude-statusline
 ./install.sh
 ```
