@@ -6,6 +6,11 @@ showing your model, context usage, and subscription usage windows:
 ```
 Opus 5.5 (medium) | ctx (6%) | 5h (3%) 1h58m | 7d (45%) 3d13h
 ```
+It looks like this in the CLI:
+
+
+<img width="674" height="145" alt="image" src="https://github.com/user-attachments/assets/58b10a8a-d6c8-407e-bd5c-ce77df2f59b3" />
+
 
 | Segment | Meaning |
 | --- | --- |
