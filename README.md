@@ -58,3 +58,5 @@ Paste the contents of [PROMPT.md](PROMPT.md) into Claude Code.
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+Disclaimer: Created with Claude Code :)
